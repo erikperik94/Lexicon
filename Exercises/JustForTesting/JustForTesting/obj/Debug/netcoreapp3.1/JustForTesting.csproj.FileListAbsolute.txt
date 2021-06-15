@@ -1,0 +1,13 @@
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.exe
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.deps.json
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.runtimeconfig.json
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.runtimeconfig.dev.json
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.dll
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\bin\Debug\netcoreapp3.1\JustForTesting.pdb
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.csproj.AssemblyReference.cache
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.AssemblyInfoInputs.cache
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.AssemblyInfo.cs
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.csproj.CoreCompileInputs.cache
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.dll
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.pdb
+C:\Users\aggfe\Desktop\myproject\Exercises\JustForTesting\JustForTesting\obj\Debug\netcoreapp3.1\JustForTesting.genruntimeconfig.cache

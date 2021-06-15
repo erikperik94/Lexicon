@@ -1,0 +1,13 @@
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.exe
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.deps.json
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.runtimeconfig.json
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.runtimeconfig.dev.json
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.dll
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\bin\Debug\netcoreapp3.1\MyFirstConsoleApp1.pdb
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.AssemblyInfo.cs
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.dll
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.pdb
+C:\Users\aggfe\Desktop\myproject\CalculatorFirstProject\obj\Debug\netcoreapp3.1\MyFirstConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.exe
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.deps.json
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.runtimeconfig.json
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.runtimeconfig.dev.json
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.dll
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\bin\Debug\netcoreapp3.1\2.0HangmanAssignment.pdb
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.AssemblyInfoInputs.cache
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.AssemblyInfo.cs
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.dll
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.pdb
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.genruntimeconfig.cache
+C:\Users\aggfe\Desktop\myproject\2.0HangmanAssignment\2.0HangmanAssignment\obj\Debug\netcoreapp3.1\2.0HangmanAssignment.csproj.AssemblyReference.cache
